@@ -8,5 +8,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `firebase emulators:start`
 
-###Now it's your you can chek it out...
+### Now it's your you can chek it out...
 
